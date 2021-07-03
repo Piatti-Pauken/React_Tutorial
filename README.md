@@ -1,2 +1,3 @@
 # React_Tutorial
 Reactの公式チュートリアルのリポジトリです
+SAP社のライブラリであるUI5 Web Componentsを導入し、部品を置換し色々やってみる予定です
