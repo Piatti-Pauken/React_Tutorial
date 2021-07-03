@@ -1,0 +1,21 @@
+{
+  "name": "react_tutorial",
+  "version": "1.0.0",
+  "description": "Reactの公式チュートリアルのリポジトリです",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piatti-Pauken/React_Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piatti-Pauken/React_Tutorial/issues"
+  },
+  "homepage": "https://github.com/Piatti-Pauken/React_Tutorial#readme"
+}
